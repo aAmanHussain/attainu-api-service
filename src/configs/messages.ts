@@ -1,0 +1,17 @@
+export const Messages = {
+    applicationPortNotSet: 'Application port is not set in the environment variables',
+    databaseNameNotSet: 'Database name is not set in the environment variables',
+    databaseHostNotSet: 'Database host is not set in the environment variables',
+    databasePortNotSet: 'Database port is not set in the environment variables',
+    envVariablesNotSet: 'One or more environment variables are not set',
+    generalSuccess: 'Data retrieved successfully',
+    generalErorr: 'Something went wrong',
+    notFound: 'The data you were looking for was not found',
+    noTermError: 'Please enter a term to search',
+    userNotAuthenticated: 'User is not authenticated',
+    userNotAuthorized: 'User is not authorized',
+    usernameError: 'Username is taken, please try a different username',
+    routeNotFound: 'The route you were looking for was not found',
+    userBadRequest: 'All the necessary properties are not set',
+    userTokenNotValid: 'User token is not valid',
+}
