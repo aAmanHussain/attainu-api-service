@@ -5,6 +5,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Midnight Mania',
         place: 'Koramangala 6th Block, Bangalore',
+        image: 'restaurant-1.jpg',
         cuisines: [
             new ObjectId('100000000000000000000000'),
             new ObjectId('100000000000000000000001'),
@@ -17,6 +18,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Simpli Namdhari\'s',
         place: 'Jayanagar, Bangalore',
+        image: 'restaurant-2.jpg',
         cuisines: [
             new ObjectId('100000000000000000000004'),
             new ObjectId('100000000000000000000005'),
@@ -27,6 +29,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Moshi\'s Kitchen',
         place: 'Whitefield, Bangalore',
+        image: 'restaurant-3.jpg',
         cuisines: [
             new ObjectId('100000000000000000000007'),
             new ObjectId('100000000000000000000008'),
@@ -38,6 +41,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Raffaele\'s Ristorante Pizzeria',
         place: 'Koramangala 6th Block, Bangalore',
+        image: 'restaurant-4.jpg',
         cuisines: [
             new ObjectId('100000000000000000000011')
         ]
@@ -45,6 +49,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'The Downtown Pizzeria',
         place: 'Majestic, Bangalore',
+        image: 'restaurant-5.jpg',
         cuisines: [
             new ObjectId('100000000000000000000012'),
             new ObjectId('100000000000000000000013'),
@@ -55,6 +60,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Burger King',
         place: 'Marathahalli, Bangalore',
+        image: 'restaurant-6.jpg',
         cuisines: [
             new ObjectId('100000000000000000000020'),
             new ObjectId('100000000000000000000021'),
@@ -65,6 +71,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'KFC',
         place: 'Indiranagar, Bangalore',
+        image: 'restaurant-7.jpg',
         cuisines: [
             new ObjectId('100000000000000000000024'),
             new ObjectId('100000000000000000000025'),
@@ -75,6 +82,7 @@ export const restaurants: Restaurant[] = [
     {
         name: 'Domino\'s',
         place: 'Silk Board, Bangalore',
+        image: 'restaurant-8.jpg',
         cuisines: [
             new ObjectId('100000000000000000000028'),
             new ObjectId('100000000000000000000029'),
